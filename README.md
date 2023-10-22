@@ -37,5 +37,5 @@
 - netplan
 - tcpdump
 
-Схема сети:
+## Схема сети:
 ![network.png](src/Screenshots/network.png)
